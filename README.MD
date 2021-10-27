@@ -5,11 +5,11 @@ To develop a fully automated deep learning pipeline using digital radiographs to
 ![pipeline](data/pipeline.png)
 Setup
 ---
-###Prerequisites
+### Prerequisites
 * Linux or OSX or Windows
 * NVIDIA GPU + CUDA CuDNN (CPU mode and CUDA without CuDNN may work with minimal modification, but untested)
 
-###Getting Start
+### Getting Start
 * Check the environment
 * Install torch and dependencies
 * Clone this project
