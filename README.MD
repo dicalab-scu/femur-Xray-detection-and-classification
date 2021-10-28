@@ -12,7 +12,7 @@ Setup
 ### Getting Start
 * Check the environment
 * Install torch and dependencies
-* Clone this project
+* Clone this repo
 
 ```
 git clone git@github.com:dicalab-scu/femur-Xray-detection-and-classification.git
